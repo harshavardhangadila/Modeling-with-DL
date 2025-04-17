@@ -13,3 +13,5 @@ This project consists of three deep learning models implemented in separate Goog
 - **PR Curve**: Precision-Recall curve for imbalanced datasets.
 - **Per Class Examples**: Visual examples of predictions with their ground truths.
 - **Confusion Matrix**: To examine how the classifier is misclassifying each class.
+
+  Youtube: [Modelling with DL](https://www.youtube.com/playlist?list=PLCGwaUpxPWO1m7xoYBLo2I4QoiSIxwcRW)
